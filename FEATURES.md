@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/pyra-os-workspace features/pyra-os-plan features/pyra-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for Python development:
+
+1. **Thonny** — org.thonny.Thonny
+2. **DB Browser for SQLite** — org.sqlitebrowser.sqlitebrowser
+3. **QGIS** — org.qgis.qgis
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.

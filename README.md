@@ -24,3 +24,9 @@ The `pyra.svg` wallpaper is original. Pyra OS is an independent Ubuntu customiza
 
 See [FEATURES.md](FEATURES.md) for three local tools included for Python development.
 
+
+The installer also includes three purpose-specific applications: **LibreOffice, GNOME Calendar, KeePassXC**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Wireshark, KiCad, Arduino IDE 2**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Thonny, DB Browser for SQLite, QGIS**. See [FEATURES.md](FEATURES.md).
